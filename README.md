@@ -41,4 +41,4 @@ The website is compatible with all modern browsers:
 
 ## License
 
-© 2024 Nextly. All rights reserved. 
+© 2025 Nextly. All rights reserved. 
